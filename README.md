@@ -1,5 +1,7 @@
 # Pokédex
 
+Pokemon information is coming from [PokeApi.co](https://pokeapi.co/)
+
 Pokedex react app that I'm building on stream https://twitch.tv/maeganwilson_
 
 # Features
