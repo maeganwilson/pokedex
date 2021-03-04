@@ -1,5 +1,5 @@
 import "./App.css";
-import {} from "module";
+import LeftSide from "./components/InnerRectangle";
 
 function App() {
   return (
@@ -9,6 +9,7 @@ function App() {
           <div className="InnerCircle"></div>
         </div>
       </div>
+      <LeftSide/>
     </div>
   );
 }
